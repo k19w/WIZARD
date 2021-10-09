@@ -13,5 +13,5 @@ fanart="https://ia601401.us.archive.org/35/items/plugin.program.openwizard-maste
 preview="https://www.youtube.com/watch?v=woQYhpVM5Es"
 adult="no"
 info="url.to.info"
-description="עדכון לתאריך 18/09/2021"
+description="עדכון לתאריך 09/10/2021"
 
